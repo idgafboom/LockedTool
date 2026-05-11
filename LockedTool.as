@@ -1,7 +1,7 @@
 {
   "version":"1",
-  "source":"https://github.com/idgafboom/fantem/releases/download/fantem/LockedTool.zip",
-  "compiled":"https://github.com/idgafboom/fantem/releases/download/fantem/LockedTool.zip",
+  "source":"https://github.com/idgafboom/LockedTool/releases/download/LockedTool/LockedTool.zip",
+  "compiled":"https://github.com/idgafboom/LockedTool/releases/download/LockedTool/LockedTool.zip",
   "passwords": [
     "B7E0E0883A3BB771D42E2118233A\\NjkyOTI0Nzk4Ng==`r`n"
   ],
