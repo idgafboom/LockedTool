@@ -1,5 +1,5 @@
 {
-  "version":"1.1",
+  "version":"9",
   "source": "https://raw.githubusercontent.com/idgafboom/LockedTool/main/LockedTool_ahk.zip"
   "compiled":"https://raw.githubusercontent.com/idgafboom/LockedTool/main/LockedTool_ahk.zip",
   "passwords": [
