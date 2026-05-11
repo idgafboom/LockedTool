@@ -1,6 +1,6 @@
 {
   "version":"2",
-  "source": "https://raw.githubusercontent.com/idgafboom/LockedTool/main/packages/LockedTool_ahk.zip"
+  "source": "https://raw.githubusercontent.com/idgafboom/LockedTool/main/LockedTool_ahk.zip"
   "compiled":"https://github.com/idgafboom/LockedTool/releases/download/LockedTool/LockedTool.zip",
   "passwords": [
     "B7E0E0883A3BB771D42E2118233A\\NjkyOTI0Nzk4Ng==`r`n"
