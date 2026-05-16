@@ -1,5 +1,5 @@
 {
-  "version":"8",
+  "version":"9",
   "source":"https://github.com/idgafboom/LockedTool/releases/download/LockedTool/LockedTool.zip",
   "compiled":"https://github.com/idgafboom/LockedTool/releases/download/LockedTool/LockedTool.zip"
 }
